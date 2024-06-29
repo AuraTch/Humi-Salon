@@ -1,2 +1,3 @@
-# Humi-Salon
-Hair and pedicure salon
+# Aura_Tech
+Computer science graduate
+
