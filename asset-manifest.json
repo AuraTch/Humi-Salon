@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Humi-Salon/static/css/main.b6e370d0.css",
+    "main.js": "/Humi-Salon/static/js/main.ecc4ecd7.js",
+    "static/js/453.2ef0f50d.chunk.js": "/Humi-Salon/static/js/453.2ef0f50d.chunk.js",
+    "static/media/Logo.jpg": "/Humi-Salon/static/media/Logo.d176164e42bef5106985.jpg",
+    "index.html": "/Humi-Salon/index.html",
+    "main.b6e370d0.css.map": "/Humi-Salon/static/css/main.b6e370d0.css.map",
+    "main.ecc4ecd7.js.map": "/Humi-Salon/static/js/main.ecc4ecd7.js.map",
+    "453.2ef0f50d.chunk.js.map": "/Humi-Salon/static/js/453.2ef0f50d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e370d0.css",
+    "static/js/main.ecc4ecd7.js"
+  ]
+}
